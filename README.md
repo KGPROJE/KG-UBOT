@@ -10,7 +10,7 @@ Repo Dibuat Oleh [KG](https://t.me/knsgnwn)
 
 ### Generate String Using Replit⤵️
 
-[![KG STRING](https://replit.com/badge/github/@KennedyProject/KEN-UBOT)](https://replit.com/@KennedyProject/KEN-UBOT-STRING)
+[![KG STRING](https://replit.com/badge/github/@KennedyProject/KEN-UBOT)](https://replit.com/@KhansaGunawan/knsgnwn)
 
 
 ## DEPLOY TO HEROKU <img src="./resources/extras/Kenpurple.gif" width="40px">
