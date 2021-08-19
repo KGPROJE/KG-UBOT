@@ -3,7 +3,7 @@ FROM vckyouuu/geezprojects:buster
 # kalian ngentot
 # KG-UBOT
 #
-RUN git clone -b KG-UBOT https://github.com/KGPROJE/KG-UBOT /root/userbot
+RUN git clone -b KG-UBOT https://github.com/KGPROJE/KG-UBOT/root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
